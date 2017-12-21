@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 
 /**
- * Bolt Part
+ * Bolt Parts
  * @author Syed Faiz
  * @version 1.0
  */

@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 
 /**
- * Nut Object
+ * Nut
  * @author Syed Faiz
  * @version 1.0
  */

@@ -9,7 +9,7 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 
 /**
- * Creates assemblies of one or more parts
+ * Creates assemblies of one or more part
  * @author Syed Faiz
  * @version 1.0
  */

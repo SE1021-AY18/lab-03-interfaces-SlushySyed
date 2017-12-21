@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 
 /**
- * Duplicates an object
+ * Duplicates an objects
  * @author Syed Faiz
  * @version 1.0
  */
