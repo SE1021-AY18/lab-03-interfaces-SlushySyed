@@ -1,7 +1,7 @@
 /*
 * SE1021
 * Winter 2017
-* FIle purpose: Work with
+* FIle purpose: Work with other classes 
 * Name: Syed Faiz
 *Created: 12/18/17
 */
